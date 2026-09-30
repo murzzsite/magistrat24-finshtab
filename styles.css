@@ -76,6 +76,7 @@ p { margin: 0; }
 .header__inner { display: flex; align-items: center; justify-content: space-between; gap: 24px; min-width: 0; padding: 14px 24px; }
 .logo { display: flex; align-items: center; gap: 10px; flex-shrink: 0; }
 .logo__mark { width: 42px; height: 42px; flex-shrink: 0; }
+.logo__img { height: 34px; width: auto; flex-shrink: 0; }
 .logo__text { font-family: var(--ff-head); font-weight: 800; font-size: 19px; color: var(--accent-dark); line-height: 1.1; }
 .logo__text span { display: block; font-family: var(--ff-body); font-size: 10px; font-weight: 600; letter-spacing: .14em; color: var(--gold); text-transform: uppercase; }
 .nav { display: flex; align-items: center; gap: 26px; }
